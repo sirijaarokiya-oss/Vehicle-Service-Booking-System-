@@ -131,7 +131,7 @@ You can add screenshots here.
 
 ## 👩‍💻 Developed By
 
-**Arokya Sirija**
+**Arokiya Muthu Sirija**
 
 ---
 
